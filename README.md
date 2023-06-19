@@ -16,6 +16,9 @@ The Weather App is a simple web application that displays current weather inform
 - ECharts: JavaScript charting library used to render the temperature forecast chart.
 - Timeago.js: JavaScript library used to display relative timestamps for sunrise and sunset times.
 
+## Sample
+![Screenshot (428)](https://github.com/Akash-san/Weather-App/assets/98251561/dffc2184-863b-4f4b-bf7e-b6c369bed27c)
+
 ## Usage
 
 - Clone the repository or download the source code files.
